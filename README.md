@@ -1,3 +1,3 @@
-# cursoGITSEMATEC2017
+﻿# cursoGITSEMATEC2017
 
-este � um reposit�rio do curso de git criado durante Semana de Tecnologia na Fatecgit status
+este eh um repositorio do curso de git criado durante Semana de Tecnologia na Fatec XOXO
